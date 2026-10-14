@@ -1,0 +1,13 @@
+body{
+    background-color:navy;
+}
+
+.Caixa{
+    color:darkgoldenrod;
+    font-size: 18px;
+    border: 5px solid darkgoldenrod;
+    border-radius: 10px;
+    margin: 20px;
+    padding: 8px;
+    width: 325px;
+}
